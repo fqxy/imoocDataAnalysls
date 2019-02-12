@@ -8,7 +8,7 @@ binary,HDF5 Format,read_hdf,to_hdf
 binary,Feather Format,read_feather,to_feather
 binary,Msgpack,read_msgpack,to_msgpack
 binary,Stata,read_stata,to_stata
-binary,SAS,read_sas, 
+binary,SAS,read_sas,
 binary,Python Pickle Format,read_pickle,to_pickle
 SQL,SQL,read_sql,to_sql
 SQL,Google Big Query,read_gbq,to_gbq
